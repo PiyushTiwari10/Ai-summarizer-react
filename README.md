@@ -1,5 +1,8 @@
 # Sumz--- https://ai-summarizer-react.vercel.app
-# Demo--![Screenshot 2024-03-30 221104](https://github.com/PiyushTiwari10/Ai-summarizer-react/assets/143063765/24bde43c-3320-4ee0-a7ea-0b1b4741c51f)
+# Demo--
+![Screenshot 2024-03-30 221104](https://github.com/PiyushTiwari10/Ai-summarizer-react/assets/143063765/24bde43c-3320-4ee0-a7ea-0b1b4741c51f)
+![Screenshot 2024-03-30 221130](https://github.com/PiyushTiwari10/Ai-summarizer-react/assets/143063765/8ab2a363-9ee8-4edf-a02b-c8776a8ef4f8)
+![Screenshot 2024-03-30 221142](https://github.com/PiyushTiwari10/Ai-summarizer-react/assets/143063765/6dc39b2c-2842-41e6-bfa4-cbb6b7530a8d)
 
 Sumz is a web application that allows users to generate summaries for articles by providing a URL. It utilizes the OpenAI GPT-4 API to generate concise and informative summaries quickly and efficiently.
 
